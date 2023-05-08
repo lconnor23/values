@@ -1,0 +1,138 @@
+[
+    {
+        "id": 2,
+        "name": "Adventure",
+        "description": "to be adventurous; to actively seek, create, or explore novel or stimulating experiences",
+        "selected": true
+    }, 
+    {
+        "id": 3,
+        "name": "Ambition",
+        "description": "aspiration, strong desire to succeed"
+    },
+     {
+        "id": 4,
+        "name": "Authenticity",
+        "description": "to be authentic, genuine, real; to be true to myself",
+        "selected": true
+    },
+    {
+        "id": 6,
+        "name": "Beauty",
+        "description": "to appreciate, create, nurture or cultivate beauty in myself, others, the environment, etc.",
+        "selected": true
+    }, 
+  {
+        "id": 8,
+        "name": "Compassion",
+        "description": "to act with kindness towards those who are suffering"
+    }, 
+    {
+        "id": 10,
+        "name": "Courage",
+        "description": "to be courageous or brave; to persist in the face of fear, threat, or difficulty"
+    },
+    {
+        "id": 11,
+        "name": "Creativity",
+        "description": "to be creative or innovative"
+    },
+
+    {
+        "id": 13,
+        "name": "Equality",
+        "description": "to treat others as equal to myself, and vice-versa"
+    },
+    {
+        "id": 14,
+        "name": "Freedom",
+        "description": "to live freely; to choose how I live and behave, or help others do likewise"
+    },
+    {
+        "id": 15,
+        "name": "Fun",
+        "description": "to be fun-loving; to seek, create, and engage in fun-filled activities"
+    },
+    {
+        "id": 16,
+        "name": "Generosity",
+        "description": "to be generous, sharing and giving, to myself or others"
+    },
+    {
+        "id": 17,
+        "name": "Gratitude",
+        "description": "to be grateful for and appreciative of the positive aspects of myself, othersand life"
+    },
+    {
+        "id": 18,
+        "name": "Growth",
+        "description": "physical, intellectual, and spiritual development"
+    },
+    {
+        "id": 20,
+        "name": "Honesty",
+        "description": "to be honest, truthful, and sincere with myself and others"
+    },
+    {
+        "id": 21,
+        "name": "Humility",
+        "description": "to be humble or modest; to let my achievements speak for themselves"
+    },
+    {
+        "id": 22,
+        "name": "Humor",
+        "description": "to see and appreciate the humorous side of life"
+    },
+    {
+        "id": 23,
+        "name": "Intimacy",
+        "description": "to open up, reveal, and share myself - emotionally or physically"
+    },
+ 
+    {
+        "id": 26,
+        "name": "Justice",
+        "description": "to uphold justice and fairness"
+    },
+
+    {
+        "id": 29,
+        "name": "Love",
+        "description": "to act lovingly or affectionately towards myself or others"
+    },
+
+    {
+        "id": 31,
+        "name": "Patience",
+        "description": "to wait calmly for what I want"
+    },
+
+    {
+        "id": 33,
+        "name": "Power",
+        "description": "to strongly influence or wield authority over others, e.g. taking charge, leading, organizing"
+    },
+    {
+        "id": 34,
+        "name": "Respect",
+        "description": "to be respectful towards myself or others; to be polite, considerate and show positive regard"
+    },
+    {
+        "id": 36,
+        "name": "Sexuality",
+        "description": "to explore or express my sexuality"
+    }, {
+        "id": 37,
+        "name": "Spirituality",
+        "description": "to connect with things bigger than myself"
+    }, {
+        "id": 38,
+        "name": "Trust",
+        "description": "to be trustworthy; to be loyal, faithful, sincere, and reliable"
+    },
+    {
+        "id": 40,
+        "name": "Wisdom",
+        "description": "experience, knowledge, and good judgement"
+    }
+]
