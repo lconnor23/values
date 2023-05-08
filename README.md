@@ -1,3 +1,20 @@
+# Choose Your Values App
+
+Live site [here](https://knowyourvalues.netlify.app/)
+
+This project was built for a therapist client who wanted a resource for their clients. The user can see a list of values, click through to read the descriptions of that value, and select the ones that most resonate with them.
+
+## Built With
+React
+Next
+TailwindCSS
+
+## Optimizations
+I'm currently working on optimizing the styling on this site. Another page will be added that displays all the selected values along with more information about them, journaling prompts, etc. Another feature I would like to have is the ability to drag and sort the values into different categories.
+
+## Lessons Learned
+Next.js 13 was wonderful to work with the new app directory. I also learned to fetch data from my json file in the api folder. I needed to use state so I wasn't able to take advantage of the new server-side components, but I look forward to using them on future projects.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -12,23 +29,3 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
