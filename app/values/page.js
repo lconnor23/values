@@ -38,7 +38,7 @@ function toggle(id) {
         )
     })
   return (
-    <div className=' bg-lavender text-charcoal'>
+    <div className=' bg-lavender text-charcoal pb-10'>
         <h1 className="text-3xl font-bold leading-normal text-center  py-6">Choose the top values that resonate with you</h1>
         <p className="text-lg text-center pb-6">Click once for description, twice to select, and again to deselect</p>
         {valueElements}

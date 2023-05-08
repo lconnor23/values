@@ -21,7 +21,7 @@ function select(){
 }
 
 const styles = {
-    backgroundColor: selectValues ? "#BFA2DB" : "#F3F1F5"
+    backgroundColor: selectValues ? "#C9A7EB" : "#F3F1F5"
 }
   return (
     <div style={styles} onClick={flip} className="inline-grid justify-center place-content-center w-64 h-28 m-4 p-4 rounded-2xl text-charcoal drop-shadow-md hover:scale-105 " >
